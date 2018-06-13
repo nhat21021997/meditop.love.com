@@ -10,11 +10,7 @@
 	<?php require_once 'common/header.php'; ?>
 	<div class="uk-hidden" where='index'></div>
 	<div id="homepage" class="page-body">
-		<div class="uk-container uk-container-center">
-			<section class="top-content">
-				
-			</section>
-		</div>
+		<?php require_once 'common/mainslide.php'; ?>
 	</div><!-- .page-body -->
 	<!-- ---------- -->
 	
